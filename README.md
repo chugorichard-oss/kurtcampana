@@ -115,5 +115,5 @@ La propuesta se basa en el PPTX `SEDES_LIBRE_Kurt_Reintsch.pptx` con:
 
 ---
 
-© 2026 Kurt Reintsch · Movimiento LIBRE · Todos los derechos reservados.  
+© 2026 Kurt Reintsch · Movimiento LIBRE ·Ing. Hugo Ramirez Pareja linkedin.com/in/hugo-ramirez-cloud/ Todos los derechos reservados.  
 Departamento de La Paz, Bolivia 🇧🇴
