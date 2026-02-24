@@ -2056,10 +2056,12 @@ h4 {
 
     .bp-content {
         grid-template-columns: 1fr;
+        gap: 32px;
     }
 
     .bp-visual {
-        display: none;
+        order: -1;
+        margin-bottom: 24px;
     }
 
     .contact-grid {
