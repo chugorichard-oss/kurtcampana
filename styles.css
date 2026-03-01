@@ -2399,7 +2399,7 @@ h4 {
     position: absolute;
     bottom: 80px;
     left: 0;
-    width: 300px;
+    width: 270px;
     background: #0B141A;
     border-radius: 12px;
     overflow: hidden;
@@ -2488,22 +2488,22 @@ h4 {
 
 .wa-chat-body {
     background: #efeae2 url('https://web.whatsapp.com/img/bg-chat-tile-dark_a4be512e7195b6b733d9110b408f075d.png');
-    padding: 14px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 8px;
 }
 
 .wa-bubble {
     background: #ffffff;
     color: #111B21;
-    padding: 10px 12px;
+    padding: 8px 10px;
     border-radius: 0 8px 8px 8px;
-    font-size: 13px;
-    line-height: 1.4;
+    font-size: 11.5px;
+    line-height: 1.35;
     position: relative;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    margin-right: 20px;
+    margin-right: 12px;
 }
 
 .wa-bubble::before {
@@ -2518,7 +2518,7 @@ h4 {
 }
 
 .wa-bubble p {
-    margin-bottom: 6px;
+    margin-bottom: 4px;
 }
 
 .wa-bubble p:last-of-type {
@@ -2536,17 +2536,17 @@ h4 {
 .wa-quick-replies {
     display: flex;
     flex-direction: column;
-    gap: 6px;
-    margin-top: 4px;
+    gap: 4px;
+    margin-top: 2px;
 }
 
 .wa-reply-btn {
     background: white;
     border: 1px solid #E9EDEF;
     color: #005C4B;
-    border-radius: 16px;
-    padding: 8px 12px;
-    font-size: 12px;
+    border-radius: 14px;
+    padding: 6px 10px;
+    font-size: 11px;
     font-weight: 600;
     text-align: left;
     cursor: pointer;
@@ -2563,13 +2563,13 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
+    gap: 6px;
     background: #005C4B;
     color: white;
     text-decoration: none;
     font-weight: 600;
-    font-size: 13px;
-    padding: 12px;
+    font-size: 12px;
+    padding: 9px;
     transition: background 0.2s;
 }
 
@@ -2584,7 +2584,7 @@ h4 {
     }
 
     .wa-chat-card {
-        width: calc(100vw - 40px);
+        width: calc(100vw - 44px);
     }
 
     .wa-tooltip {
